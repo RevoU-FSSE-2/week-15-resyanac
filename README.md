@@ -17,5 +17,9 @@ Client Y is allowed to perform all HTTP methods: **GET**, **POST**, **UPDATE**, 
 
 ## DEPLOYMENT
 
-Client X: `http://localhost:5173`
-Client Y: `http://localhost:5174`
+FRONTEND
+Client X: `[https://resyanac-week-15-client-x.netlify.app/](https://resyanac-week-15-client-x.netlify.app/)`
+Client Y: `[https://resyanac-week-15-client-y.netlify.app/](https://resyanac-week-15-client-y.netlify.app/)`
+
+BACKEND
+https://week-15-resyanac-production.up.railway.app
